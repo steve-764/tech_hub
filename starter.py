@@ -1,6 +1,5 @@
 """
-Day 2 - Sales Analytics Without Pandas
-Squad Python Specialization - Data Science, AI & Analytics
+Sales Analytics Without Pandas
 
 Tasks 1-7 use only the standard library. pandas is allowed in task 8, to check your work.
 """
