@@ -1,0 +1,5 @@
+line,sale_id,reason
+7,S-3006,Invalid quantiry: 'two'
+31,S-3030,invalid unit_price_kes: 'N/A'
+36,S-3035,Invalid quantiry: ''
+40,S-3039,invalid unit_price_kes: ''
