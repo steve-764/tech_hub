@@ -35,7 +35,7 @@ Expected CSV columns: `sale_id`, `sale_date`, `store`, `product`, `quantity`, `u
    ```python
    pip install -r requirements.txt
    ```
-2. Put the imports, constants and functions from `sales_analysis.py` in one or more cells and run them.
+2. Put the imports, constants and functions from `sales_analysis.ipynb` in one or more cells and run them.
 
 3. In a new cell, call the entry point directly:
 
